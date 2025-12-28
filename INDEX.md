@@ -17,6 +17,7 @@ Some TODOs for my current hobbies and interests:
      - [x] Project page w/ plans, overviews, artifacts, etc.
      - [x] Design a layout for the Project page
      - [ ] Style Project page, see how design holds up
+     - [ ] Needs margins between columns
  - Wood Working
      - [ ] Desktop for desk
      - [ ] Clean and finish legs

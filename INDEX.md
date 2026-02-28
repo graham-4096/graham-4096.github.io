@@ -6,13 +6,16 @@ permalink: /
 
 Some TODOs for my current hobbies and interests:
  - Arch
-     - [ ] Test screentearing with Wayland
+     - [ ] Test screen tearing with Wayland
      - [ ] Maintanence research and schedule
+     - [ ] Proper rsync backups
      - [x] Get Arch usable on laptop
      - [x] Dual boot on desktop
      - [x] Get multihead working with Sway
  - Software
      - [ ] IRC server research
+     - [ ] wireguard research
+     - [ ] file-mover-2
  - Project Website
      - [x] Learn markdown
      - [ ] Learn / apply CSS

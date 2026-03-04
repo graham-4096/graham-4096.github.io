@@ -6,9 +6,10 @@ permalink: /
 
 Some TODOs for my current hobbies and interests:
  - Arch
-     - [ ] Test screen tearing with Wayland
+     - [x] Test screen tearing with Wayland
      - [ ] Maintanence research and schedule
      - [ ] Proper rsync backups
+     - [ ] Firewalling
      - [x] Get Arch usable on laptop
      - [x] Dual boot on desktop
      - [x] Get multihead working with Sway
@@ -18,7 +19,6 @@ Some TODOs for my current hobbies and interests:
      - [ ] file-mover-2
  - Project Website
      - [x] Learn markdown
-     - [ ] Learn / apply CSS
      - [x] Remove Done page in favor of checkboxes here
      - [x] Project page w/ plans, overviews, artifacts, etc.
      - [x] Design a layout for the Project page
